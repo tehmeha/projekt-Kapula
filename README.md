@@ -1,5 +1,5 @@
 # naziv projekta
-- projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- Connect four
+- team members: Luka Sirotković
 - programming language: C++
-- description: Opis
+- description: School project with arduino
